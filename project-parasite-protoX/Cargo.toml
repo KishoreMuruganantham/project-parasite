@@ -1,0 +1,10 @@
+[package]
+name = "project-parasite"
+version = "0.2.0" # Version bump for the new host-runner version
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.11", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

@@ -6,7 +6,6 @@ This repository contains the complete design documentation for the PARASITE proj
 
 ---
 
----
 ## 🚀 Key Features
 
 -   **Hyper-Efficient Agent:** A sub-1.5KB firmware agent written in Rust, designed to run on resource-constrained microcontrollers with less than 0.1% CPU overhead.
@@ -16,6 +15,8 @@ This repository contains the complete design documentation for the PARASITE proj
 -   **Robust Security Foundation:** The system is built on a foundation of a secure bootloader (MCUBoot), a hardware-backed key hierarchy using a Secure Element, and a fail-safe, standards-aligned (IETF SUIT) OTA update mechanism.
 -   **Comprehensive Design:** The project is documented across 16 phases, providing a professional-grade blueprint for a real-world deployment.
 
+---
+![Project Parasite Infographic](https://raw.githubusercontent.com/KishoreMuruganantham/project-parasite/refs/heads/main/Project%20Parasite%20Infographic.png "Project Parasite Infographic")
 ---
 
 ## 📂 Project Structure & Documentation

@@ -2,10 +2,11 @@
 
 **PARASITE** is a complete, end-to-end security ecosystem designed to protect the firmware of embedded systems within Critical National Infrastructure (CNI). It features a hyper-efficient, 1.2KB on-device agent that provides real-time threat detection, hardware-enforced containment, and cryptographically secure reporting to a scalable cloud backend.
 
-This repository contains the complete design documentation for the PARASITE project, developed for the KH4cks Hackathon. The documentation spans 16 phases, covering the entire project lifecycle from initial research and threat modeling to detailed hardware, firmware, and cloud architecture, culminating in a final presentation and packaging plan.
+This repository contains the complete design documentation for the PARASITE project, developed for the RIFT'26 Hackathon. The documentation spans 16 phases, covering the entire project lifecycle from initial research and threat modeling to detailed hardware, firmware, and cloud architecture, culminating in a final presentation and packaging plan.
 
 ---
 
+---
 ## 🚀 Key Features
 
 -   **Hyper-Efficient Agent:** A sub-1.5KB firmware agent written in Rust, designed to run on resource-constrained microcontrollers with less than 0.1% CPU overhead.
@@ -66,4 +67,4 @@ This repository is structured as a series of detailed design documents, each rep
 
 ---
 
-This project was created by princetheprogrammer for the KH4cks Hackathon.
+This project was created by princetheprogrammer for the RIFT'26 Hackathon.
